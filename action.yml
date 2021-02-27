@@ -1,4 +1,4 @@
-name: 'scp deploy'
+name: 'scp action'
 description: 'Action to send dist files to a remote server with scp command(fork nogsantos/ssh-scp-deploy)'
 author: 'hzbd'
 inputs:
